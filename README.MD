@@ -1,1 +1,0 @@
-# I AM learning backend through tthese project!!!
